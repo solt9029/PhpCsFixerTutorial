@@ -1,0 +1,16 @@
+{
+    "name": "shiode/php-cs-fixer-tutorial",
+    "authors": [
+        {
+            "name": "Kenshi Shiode",
+            "email": "atemu1212@yahoo.co.jp"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^2.13"
+    },
+    "scripts": {
+        "fix": "php-cs-fixer fix ."
+    }
+}

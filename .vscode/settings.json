@@ -1,0 +1,7 @@
+{
+  "vscode-php-cs-fixer.fixOnSave": true,
+  "vscode-php-cs-fixer.config": "../.php_cs",
+  "[php]": {
+    "editor.tabSize": 4
+  }
+}
